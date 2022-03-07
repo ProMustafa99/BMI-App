@@ -74,7 +74,7 @@ class Rusult extends StatelessWidget {
     );
 
   }
-
+//text
   @override
   Widget build(BuildContext context) {
     return Scaffold(
